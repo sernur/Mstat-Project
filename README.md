@@ -63,7 +63,7 @@ Table of Contents
     - Light GBM
     - Which Model is the best ? Table 4
     - Stacking Approach
-    -Using h2o AutoML
+    - Using h2o AutoML
 8. Estimating the Rating Variable packages
     - Individual Models
     - h2o AutoML
