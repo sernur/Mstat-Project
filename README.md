@@ -47,7 +47,7 @@ Table of Contents
     - XGBoost
     - Which Model is the best ? Table 1
 
-7.Models with the grid search(to predict Decision), stacking approach and h2oAutoML
+7. Models with the grid search(to predict Decision), stacking approach and h2oAutoML
     - Decision Tree (DT)
     - Logistic Regression (LG)
     - Random Forest (RF)
